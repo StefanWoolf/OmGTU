@@ -1,0 +1,6 @@
+York,USA,8193423
+Los Angeles,USA,3983224
+London,UK,8982430
+Berlin,Germany,3645089
+Paris,France,2148660
+Moskow,Russia,12345978
